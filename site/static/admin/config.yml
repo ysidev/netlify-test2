@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: ysidev/netlify-test2
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
